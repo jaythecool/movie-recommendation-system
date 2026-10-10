@@ -80,7 +80,3 @@ The notebook saves the following artifacts:
 ## ⚠️ Disclaimer
 
 This project is intended for educational and portfolio purposes. Recommendations are based on metadata similarity and may not reflect individual user preferences.
-
-## 🔗 Repository
-
-[View the project on GitHub](https://github.com/jaythecool/MovieRecommendationSystem)
